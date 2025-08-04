@@ -1,1 +1,59 @@
 /*  your css code here. If applicable */
+.outer{
+	width:400px;
+	display:flex;
+	justify-content:center;
+	
+	
+}
+.middle{
+	background-color:#ff0000;
+	height:300px;
+	width:300px;
+	border-radius:50%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.inner{
+	background-color:#ffa500;
+	height:250px;
+	width:250px;
+	border-radius:50%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.in-orange{
+	background-color:#ffff00;
+	width:200px;
+	height:200px;
+	border-radius:50%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.in-yellow{
+	background-color:#008000;
+	width:150px;
+	height:150px;
+	border-radius:50%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.in-green{
+	background-color:#0000ff;
+	width:100px;
+	height:100px;
+	border-radius:50%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.in-blue{
+	background-color:#800080;
+	width:50px;
+	height:50px;
+	border-radius:50%;
+}
